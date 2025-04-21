@@ -1,0 +1,8 @@
+[package]
+name = "rust-rustpython-test"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rustpython-stdlib = "0.4.0"
+rustpython-vm = "0.4.0"
